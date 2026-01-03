@@ -21,6 +21,7 @@ Collaboration: Working with agile teams to deliver quality code and features on 
 
 📂 My GitHub Highlights
 🌟 Pinned Projects:
+AI Job FIT Free ATS Tracker and Resume Builder App: https://github.com/nsridatta/job-fit-ai
 HOME FOOD RESTAURANT: https://github.com/nsridatta/home-food-restaurant
 FITNES APP: https://github.com/nsridatta/project_fitness_app-jsm/tree/main/project_fitness_app-main
 MAZDOORIWALA: https://github.com/nsridatta/mazdooriwala
